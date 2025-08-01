@@ -1,3 +1,7 @@
+# About
+
+Slink 是一个轻量级的项目，用于演示 Git 和 GitHub 的基本操作，同时提供实用的脚本工具。
+
 # sl.sh 脚本使用指南
 
 ## 功能简介
@@ -44,16 +48,16 @@ bash /root/sl.sh
 ## 示例截图
 
 ### 选择操作类型
-![选择操作类型](img\4dd5261dfb41f8f32f11013ad9e80d7.png)
+![选择操作类型](img/4dd5261dfb41f8f32f11013ad9e80d7.png)
 
 ### 输入路径（路径最前方如果没有/，需要连续点键盘左箭头键，将光标移动到最前面，手动补上）
 ![输入路径](img\3ca870433ff8abcbfbce12ab336a1eb.png)
 
 ### 路径复制方法
-![路径复制方法](img\649343a33fad3375a45da872033654f.png)
+![路径复制方法](img/649343a33fad3375a45da872033654f.png)
 
 ### 创建结果
-![创建结果](img\5c20eb5b36990d49061e858e1b86596.png)
+![创建结果](img/5c20eb5b36990d49061e858e1b86596.png)
 
 ## 注意事项
 1. 确保源路径存在且可访问。
@@ -79,3 +83,6 @@ chmod +x sl.sh
 ```bash
 bash -x sl.sh
 ```
+
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
