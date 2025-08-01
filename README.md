@@ -1,7 +1,20 @@
-# sl.sh 脚本使用指南
+[![GitHub Stars](https://img.shields.io/github/stars/AdamShuo/slink?style=flat-square)](https://github.com/AdamShuo/slink/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/AdamShuo/slink?style=flat-square)](https://github.com/AdamShuo/slink/network/members)
+[![License](https://img.shields.io/github/license/AdamShuo/slink?style=flat-square)](https://github.com/AdamShuo/slink/blob/main/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/AdamShuo/slink?style=flat-square)](https://github.com/AdamShuo/slink/issues)
+[![GitHub Release](https://img.shields.io/github/v/release/AdamShuo/slink?style=flat-square)](https://github.com/AdamShuo/slink/releases)
+[![Downloads](https://img.shields.io/github/downloads/AdamShuo/slink/total?style=flat-square)](https://github.com/AdamShuo/slink/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/AdamShuo/slink/build.yml?style=flat-square)](https://github.com/AdamShuo/slink/actions)
+[![Codecov](https://img.shields.io/codecov/c/github/AdamShuo/slink?style=flat-square)](https://codecov.io/gh/AdamShuo/slink)
+[![Dependencies](https://img.shields.io/librariesio/github/AdamShuo/slink?style=flat-square)](https://libraries.io/github/AdamShuo/slink)
+[![Contributors](https://img.shields.io/github/contributors/AdamShuo/slink?style=flat-square)](https://github.com/AdamShuo/slink/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/AdamShuo/slink?style=flat-square)](https://github.com/AdamShuo/slink/commits/main)
+[![Activity](https://img.shields.io/github/commit-activity/m/AdamShuo/slink?style=flat-square)](https://github.com/AdamShuo/slink/pulse)
+
+# 使用指南
 
 ## 功能简介
-`sl.sh` 是一个用于创建软链接（符号链接）的 Bash 脚本，支持以下功能：
+Slink 是一个轻量级的项目，是一个用于在Linux环境下创建软链接（符号链接）的 Bash 脚本，旨在创建大量软链接时，节省输入命令行的时间：
 1. 为单个目录创建软链接。
 2. 为单个文件创建软链接。
 3. 将源路径下的所有文件和文件夹按原始结构创建软链接。
