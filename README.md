@@ -51,7 +51,7 @@ bash /root/sl.sh
 ![选择操作类型](img/4dd5261dfb41f8f32f11013ad9e80d7.png)
 
 ### 输入路径（路径最前方如果没有/，需要连续点键盘左箭头键，将光标移动到最前面，手动补上）
-![输入路径](img\3ca870433ff8abcbfbce12ab336a1eb.png)
+![输入路径](img/3ca870433ff8abcbfbce12ab336a1eb.png)
 
 ### 路径复制方法
 ![路径复制方法](img/649343a33fad3375a45da872033654f.png)
